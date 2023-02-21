@@ -37,4 +37,4 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Instructions
 
-Run the  `Navigation.ipynb` to train and test the agent - The DQNN model class is in the model.py and agent class is in the dqn_agent.py
+Run the  `Navigation.ipynb` to train and test the agent - The DQNN model class is in the model.py and agent class is in the dqn_agent.py. The model weights stored as checkpoint.pth. The last step of the notebook will load and test the model without needing to run the training step again.
