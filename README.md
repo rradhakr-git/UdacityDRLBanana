@@ -21,6 +21,10 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.  
 
+### Udacity project review
+
+The project is very well implemented and meets the specifications! Impressive work spending time to understand and implementing DQN to solve the Navigation environment! Congratulations on completing the project. The agent performs well and solves the environment by achieving an average score of +15.04 (over 100 episodes) in 947 episodes. The model seems to be very efficient with three hidden layers. Good work using relu activation in the hidden layers. A very good submission overall!
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
