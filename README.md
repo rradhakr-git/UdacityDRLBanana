@@ -25,6 +25,8 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 The project is very well implemented and meets the specifications! Impressive work spending time to understand and implementing DQN to solve the Navigation environment! Congratulations on completing the project. The agent performs well and solves the environment by achieving an average score of +15.04 (over 100 episodes) in 947 episodes. The model seems to be very efficient with three hidden layers. Good work using relu activation in the hidden layers. A very good submission overall!
 
+For full review check the review.md in the root directory
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
